@@ -6,6 +6,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+/**
+ * @author Anthony Powell 5/6/16
+ */
 public class AppLinks extends AppCompatActivity {
 
     @Override
